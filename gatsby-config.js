@@ -27,7 +27,7 @@ module.exports = {
   siteMetadata: {
     title: 'Gatsby Contentful starter',
   },
-  pathPrefix: '/gatsby-contentful-starter',
+  pathPrefix: '/cat-kneading',
   plugins: [
     'gatsby-transformer-remark',
     'gatsby-transformer-sharp',
